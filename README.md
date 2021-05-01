@@ -1,7 +1,7 @@
-Veja o projeto em:
-podcasteer.vercel.app
-podcasteer-cauepinheiro-2001.vercel.app
-podcasteer-git-master-cauepinheiro-2001.vercel.app
+Veja o projeto em:<br>
+https://podcasteer.vercel.app/ <br>
+https://podcasteer-cauepinheiro-2001.vercel.app/ <br>
+https://podcasteer-git-master-cauepinheiro-2001.vercel.app/ <br>
 
 <h1 align="center">
     <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
